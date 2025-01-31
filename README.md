@@ -11,9 +11,8 @@
 - craate empty database
 - php artisan migrate  
 - php artisan storage:link
-
-#### crafting
-Чтобы создать фабрики, миграции, модели и ресурсный контроллер выполните:
+  
+### Constructor blocks crafting
 ```
 php artisan make:model Block -a
 php artisan make:model Type -a
